@@ -16,6 +16,7 @@
 int main(int argc, char *argv[])
 {
 	int abcd = 0; //testing git
+	int xyz = 0; //testing branch
    char hostname[100];
    char buf[BUFSIZE];
    char name[100];
